@@ -1,0 +1,101 @@
+Department,ResourceType,AllocatedHours,UsedHours,Cost,RemainingHours
+Quality Control,Manpower Hours,477,175,3890.92,302
+Quality Control,Machine Hours,325,307,3655.64,18
+Quality Control,Training Hours,254,390,4048.41,-136
+Manufacturing,Training Hours,279,262,1585.22,17
+HR,Equipment Use,467,150,1376.12,317
+Maintenance,Machine Hours,420,367,2355.6,53
+Maintenance,Equipment Use,489,389,2927.31,100
+Logistics,Machine Hours,466,411,1897.61,55
+Manufacturing,Training Hours,210,490,4092.9,-280
+Logistics,Machine Hours,431,291,3878.22,140
+Maintenance,Manpower Hours,495,443,4654.32,52
+HR,Equipment Use,488,234,3915.84,254
+Manufacturing,Machine Hours,363,257,1428.58,106
+Manufacturing,Training Hours,400,436,3659.98,-36
+Maintenance,Training Hours,287,463,2648.24,-176
+Logistics,Machine Hours,405,280,2038.46,125
+HR,Training Hours,300,243,3407.81,57
+Manufacturing,Machine Hours,282,490,2208.76,-208
+Logistics,Training Hours,374,215,3123.43,159
+Manufacturing,Machine Hours,426,191,3303.91,235
+Logistics,Machine Hours,220,236,3116.27,-16
+Quality Control,Training Hours,226,188,1042.75,38
+Logistics,Equipment Use,468,242,2394.96,226
+Maintenance,Manpower Hours,473,329,4161.85,144
+HR,Manpower Hours,492,387,2387.58,105
+Manufacturing,Equipment Use,234,237,3037.52,-3
+Logistics,Manpower Hours,210,178,2386.53,32
+Maintenance,Manpower Hours,251,324,1796.95,-73
+HR,Training Hours,330,287,1799.01,43
+Logistics,Equipment Use,393,305,3995.44,88
+Logistics,Manpower Hours,268,432,3511.81,-164
+Manufacturing,Machine Hours,385,292,4728.23,93
+Quality Control,Manpower Hours,461,294,2684.02,167
+Manufacturing,Manpower Hours,435,307,3546.27,128
+Quality Control,Machine Hours,449,156,2874.16,293
+HR,Training Hours,438,205,2895.75,233
+Manufacturing,Equipment Use,203,215,4416.35,-12
+Maintenance,Training Hours,469,231,2817.21,238
+Maintenance,Machine Hours,294,278,4712.67,16
+Maintenance,Equipment Use,371,199,3482.03,172
+Maintenance,Training Hours,458,468,1341.7,-10
+Quality Control,Machine Hours,205,151,1271.93,54
+Logistics,Equipment Use,251,309,4929.26,-58
+HR,Training Hours,479,182,2597.44,297
+Maintenance,Machine Hours,343,480,3349.84,-137
+HR,Machine Hours,274,467,2726.34,-193
+Manufacturing,Machine Hours,420,494,1635.59,-74
+Quality Control,Equipment Use,294,272,1502.21,22
+Quality Control,Training Hours,455,176,1850.78,279
+Quality Control,Equipment Use,287,410,3421.35,-123
+Logistics,Equipment Use,299,319,3186.13,-20
+Logistics,Manpower Hours,333,327,2314.35,6
+Quality Control,Manpower Hours,300,337,1176.7,-37
+Logistics,Machine Hours,358,192,2296.11,166
+HR,Training Hours,459,292,2593.21,167
+HR,Machine Hours,211,460,4025.7,-249
+HR,Machine Hours,385,209,3949.94,176
+HR,Machine Hours,227,456,1885.63,-229
+Manufacturing,Machine Hours,328,365,1910.7,-37
+Manufacturing,Manpower Hours,339,401,3511.53,-62
+Quality Control,Machine Hours,364,160,3607.11,204
+Maintenance,Manpower Hours,266,417,3244.41,-151
+Logistics,Training Hours,294,491,1447.89,-197
+Logistics,Manpower Hours,454,275,2142.88,179
+Quality Control,Machine Hours,483,212,1126.81,271
+Logistics,Equipment Use,317,289,4046.38,28
+HR,Training Hours,310,479,4226.01,-169
+Logistics,Manpower Hours,240,332,4681.92,-92
+Quality Control,Manpower Hours,251,334,1351.66,-83
+Logistics,Equipment Use,314,336,4624.85,-22
+Quality Control,Manpower Hours,485,258,4673.7,227
+Logistics,Equipment Use,368,373,4990.82,-5
+HR,Machine Hours,250,494,4111.55,-244
+Maintenance,Machine Hours,280,414,2050.55,-134
+Manufacturing,Machine Hours,431,359,2058.24,72
+Manufacturing,Manpower Hours,211,371,3752.87,-160
+HR,Equipment Use,488,421,3718.93,67
+Logistics,Training Hours,304,285,3641.32,19
+Quality Control,Equipment Use,355,174,2412.48,181
+Logistics,Manpower Hours,378,352,3079.19,26
+HR,Equipment Use,388,459,2205.99,-71
+Quality Control,Manpower Hours,359,328,3387.16,31
+Maintenance,Manpower Hours,312,222,4089.61,90
+Quality Control,Manpower Hours,401,404,3794.79,-3
+Manufacturing,Training Hours,433,224,2730.02,209
+Logistics,Machine Hours,407,317,3098.91,90
+Maintenance,Training Hours,211,377,4089.67,-166
+Maintenance,Equipment Use,396,450,1931.41,-54
+Quality Control,Equipment Use,489,331,1885.19,158
+Manufacturing,Training Hours,384,383,2939.95,1
+Manufacturing,Training Hours,448,265,2976.55,183
+Manufacturing,Manpower Hours,355,172,1093.89,183
+Maintenance,Machine Hours,295,225,3327.79,70
+Quality Control,Manpower Hours,345,371,2670.97,-26
+Maintenance,Manpower Hours,363,255,3305.52,108
+Manufacturing,Manpower Hours,217,330,4659.29,-113
+Manufacturing,Equipment Use,422,310,2332.47,112
+Quality Control,Training Hours,391,452,1431.34,-61
+Manufacturing,Equipment Use,320,393,1826.07,-73
+Maintenance,Machine Hours,337,188,2226.15,149

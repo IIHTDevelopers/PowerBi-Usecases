@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Description,UnitCost
+P001,Conveyor Belt,Software Solutions,Description for product 48,6.34
+P002,Welding Machine,Heavy Machinery,Description for product 42,25.18
+P003,Drill Press,Automation,Description for product 36,45.74
+P003,Welding Machine,Fluid Components,Description for product 36,45.74
+P005,Heat Press,Heavy Machinery,Description for product 37,6.25
+P006,Welding Machine,Automation,Description for product 52,26.64
+P007,CNC Machine,Automation,Description for product 45,30.62
+P008,Industrial Robot,Precision Tools,Description for product 30,43.56
+P009,Drill Press,Heavy Machinery,Description for product 83,26.98
+P010,Industrial Robot,Software Solutions,Description for product 12,11.04
+P011,Lathe Machine,Automation,Description for product 42,
+P012,3D Printer,Software Solutions,Description for product 5,34.51
+P013,3D Printer,Software Solutions,Description for product 64,11.6
+P014,Welding Machine,Precision Tools,Description for product 48,18.2
+P015,CNC Machine,Precision Tools,Description for product 48,26.95
+P016,Lathe Machine,Heavy Machinery,Description for product 90,18.52
+P017,3D Printer,Heavy Machinery,Description for product 69,22.63
+P018,Conveyor Belt,Automation,Description for product 94,13.95
+P019,Industrial Robot,Fluid Components,Description for product 81,16.02
+P020,Welding Machine,Automation,Description for product 31,49.3

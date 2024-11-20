@@ -1,0 +1,101 @@
+EmployeeID,TrainingProgram,CompletionDate,Score,CertificationReceived
+E0014,Technical Skills,2023-03-16,87.57,Yes
+E0031,Leadership,2022-12-28,79.52,Yes
+E0016,Technical Skills,2022-06-03,74.5,Yes
+E0003,Safety,2023-01-13,88.42,Yes
+E0012,Efficiency Improvement,2022-07-16,66.8,No
+E0005,Technical Skills,2023-03-07,74.48,Yes
+E0008,Safety,2022-09-05,71.6,Yes
+E0018,Safety,2022-10-30,65.64,Yes
+E0020,Safety,2022-02-06,86.75,No
+E0001,Technical Skills,2023-02-21,86.65,No
+E0029,Technical Skills,2022-09-03,95.62,Yes
+E0037,Safety,2022-03-11,75.16,Yes
+E0040,Safety,2022-01-25,63.46,Yes
+E0047,Leadership,2022-06-30,75.66,Yes
+E0016,Technical Skills,2023-04-29,78.15,Yes
+E0035,Efficiency Improvement,2023-02-24,65.29,Yes
+E0007,Efficiency Improvement,2022-11-03,96.79,Yes
+E0046,Technical Skills,2022-08-30,60.73,No
+E0036,Technical Skills,2023-04-26,74.25,No
+E0009,Safety,2023-04-24,74.33,No
+E0014,Efficiency Improvement,2022-09-14,99.17,No
+E0016,Leadership,2022-03-18,69.36,Yes
+E0016,Leadership,2022-09-24,83.27,No
+E0045,Safety,2022-07-08,96.84,Yes
+E0028,Technical Skills,2023-01-02,71.13,Yes
+E0020,Safety,2022-07-27,81.06,Yes
+E0001,Efficiency Improvement,2022-01-11,90.75,Yes
+E0011,Safety,2023-02-12,67.61,Yes
+E0011,Safety,2023-01-31,99.09,Yes
+E0047,Safety,2022-11-16,62.78,Yes
+E0033,Technical Skills,2023-02-14,79.83,Yes
+E0005,Efficiency Improvement,2022-01-21,84.73,Yes
+E0004,Leadership,2023-01-14,67.86,Yes
+E0041,Efficiency Improvement,2022-08-16,85.92,Yes
+E0010,Safety,2022-03-09,69.05,Yes
+E0001,Efficiency Improvement,2022-02-17,67.98,Yes
+E0036,Technical Skills,2022-12-11,78.52,Yes
+E0029,Leadership,2022-11-21,96.16,Yes
+E0031,Leadership,2022-02-18,93.08,Yes
+E0018,Leadership,2022-09-29,78.86,Yes
+E0006,Safety,2023-04-10,97.07,No
+E0034,Technical Skills,2023-02-02,77.88,Yes
+E0044,Safety,2023-04-27,88.58,Yes
+E0046,Safety,2023-02-05,79.45,No
+E0006,Technical Skills,2022-11-24,81.77,Yes
+E0025,Safety,2023-04-01,92.87,Yes
+E0048,Leadership,2022-12-03,88.4,Yes
+E0022,Leadership,2022-09-08,76.7,Yes
+E0014,Technical Skills,2022-02-16,92.73,No
+E0024,Leadership,2022-07-27,90.15,Yes
+E0035,Safety,2022-04-04,92.21,No
+E0030,Leadership,2023-03-13,71.62,No
+E0012,Technical Skills,2022-08-03,91.44,No
+E0012,Efficiency Improvement,2022-08-29,76.81,Yes
+E0022,Efficiency Improvement,2023-01-17,79.83,Yes
+E0028,Safety,2023-03-05,71.9,Yes
+E0046,Efficiency Improvement,2022-07-13,70.38,Yes
+E0044,Leadership,2022-07-16,61.74,No
+E0003,Technical Skills,2022-03-12,78.1,Yes
+E0042,Leadership,2022-08-17,62.14,No
+E0008,Technical Skills,2022-05-16,89.62,No
+E0016,Technical Skills,2022-03-24,85.73,No
+E0001,Technical Skills,2022-09-08,72.02,Yes
+E0031,Leadership,2022-07-18,62.97,No
+E0048,Safety,2022-12-14,68.66,No
+E0043,Technical Skills,2022-11-14,61.73,No
+E0039,Safety,2022-05-24,96.21,Yes
+E0050,Efficiency Improvement,2023-03-21,76.58,No
+E0013,Efficiency Improvement,2022-10-23,83.87,Yes
+E0017,Efficiency Improvement,2022-05-19,73.16,Yes
+E0030,Efficiency Improvement,2022-02-19,81.0,Yes
+E0024,Technical Skills,2023-01-22,81.92,No
+E0008,Technical Skills,2022-08-12,88.8,Yes
+E0047,Safety,2023-04-10,79.41,Yes
+E0005,Technical Skills,2023-05-11,71.86,No
+E0032,Leadership,2023-01-13,73.1,Yes
+E0033,Leadership,2022-01-16,97.08,Yes
+E0004,Leadership,2023-01-08,91.09,No
+E0038,Efficiency Improvement,2023-01-01,73.16,No
+E0015,Safety,2022-08-25,86.75,Yes
+E0003,Leadership,2022-10-05,90.77,No
+E0017,Efficiency Improvement,2023-01-11,67.36,Yes
+E0032,Technical Skills,2022-05-17,88.09,Yes
+E0024,Safety,2022-07-08,83.4,No
+E0026,Safety,2023-04-28,81.12,Yes
+E0028,Leadership,2022-01-06,76.52,Yes
+E0030,Technical Skills,2022-10-16,99.7,No
+E0024,Safety,2022-09-21,92.2,Yes
+E0013,Safety,2023-04-22,64.15,Yes
+E0038,Leadership,2023-02-14,73.23,Yes
+E0041,Safety,2022-11-29,81.29,Yes
+E0040,Leadership,2022-08-24,91.53,Yes
+E0013,Technical Skills,2023-02-28,88.37,Yes
+E0036,Technical Skills,2022-05-07,73.23,No
+E0001,Efficiency Improvement,2023-01-05,95.3,Yes
+E0031,Safety,2022-03-11,81.61,No
+E0018,Safety,2023-04-19,94.23,Yes
+E0029,Safety,2022-11-08,95.59,No
+E0049,Efficiency Improvement,2022-04-08,84.96,Yes
+E0010,Efficiency Improvement,2022-11-21,65.81,Yes

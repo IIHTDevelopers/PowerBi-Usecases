@@ -1,0 +1,101 @@
+Department,ResourceType,AllocatedHours,UsedHours,RemainingHours,Cost
+Quality Control,Equipment Use,254,413,<function <lambda> at 0x7ed69cf975d0>,4232.53
+Manufacturing,Equipment Use,242,397,<function <lambda> at 0x7ed69cf975d0>,4725.13
+Maintenance,Manpower Hours,373,385,<function <lambda> at 0x7ed69cf975d0>,2159.96
+Manufacturing,Machine Hours,343,268,<function <lambda> at 0x7ed69cf975d0>,2569.87
+Logistics,Training Hours,439,337,<function <lambda> at 0x7ed69cf975d0>,4599.87
+Manufacturing,Machine Hours,322,399,<function <lambda> at 0x7ed69cf975d0>,4337.9
+Quality Control,Training Hours,252,396,<function <lambda> at 0x7ed69cf975d0>,2596.54
+Quality Control,Training Hours,428,374,<function <lambda> at 0x7ed69cf975d0>,2869.35
+Maintenance,Training Hours,491,383,<function <lambda> at 0x7ed69cf975d0>,3868.59
+Logistics,Training Hours,298,368,<function <lambda> at 0x7ed69cf975d0>,1245.0
+Logistics,Training Hours,308,326,<function <lambda> at 0x7ed69cf975d0>,2469.27
+Quality Control,Equipment Use,427,308,<function <lambda> at 0x7ed69cf975d0>,1824.92
+HR,Machine Hours,292,238,<function <lambda> at 0x7ed69cf975d0>,3075.18
+Manufacturing,Training Hours,227,194,<function <lambda> at 0x7ed69cf975d0>,4088.41
+Quality Control,Training Hours,453,336,<function <lambda> at 0x7ed69cf975d0>,1519.7
+Manufacturing,Manpower Hours,369,487,<function <lambda> at 0x7ed69cf975d0>,4946.94
+Maintenance,Equipment Use,442,359,<function <lambda> at 0x7ed69cf975d0>,2868.45
+Quality Control,Machine Hours,202,194,<function <lambda> at 0x7ed69cf975d0>,4092.07
+Maintenance,Machine Hours,342,311,<function <lambda> at 0x7ed69cf975d0>,2409.67
+HR,Training Hours,480,462,<function <lambda> at 0x7ed69cf975d0>,2952.55
+HR,Equipment Use,219,283,<function <lambda> at 0x7ed69cf975d0>,4859.46
+Logistics,Training Hours,299,412,<function <lambda> at 0x7ed69cf975d0>,3761.05
+Maintenance,Equipment Use,323,381,<function <lambda> at 0x7ed69cf975d0>,1102.61
+Quality Control,Equipment Use,491,298,<function <lambda> at 0x7ed69cf975d0>,1927.93
+Manufacturing,Machine Hours,418,359,<function <lambda> at 0x7ed69cf975d0>,2037.04
+Manufacturing,Training Hours,404,221,<function <lambda> at 0x7ed69cf975d0>,4835.63
+Maintenance,Equipment Use,354,186,<function <lambda> at 0x7ed69cf975d0>,4078.27
+Quality Control,Manpower Hours,471,191,<function <lambda> at 0x7ed69cf975d0>,3714.52
+Logistics,Machine Hours,301,319,<function <lambda> at 0x7ed69cf975d0>,1278.6
+HR,Machine Hours,215,468,<function <lambda> at 0x7ed69cf975d0>,4215.26
+HR,Equipment Use,350,352,<function <lambda> at 0x7ed69cf975d0>,1726.69
+Logistics,Machine Hours,386,157,<function <lambda> at 0x7ed69cf975d0>,1595.12
+Quality Control,Manpower Hours,323,467,<function <lambda> at 0x7ed69cf975d0>,4475.4
+Manufacturing,Manpower Hours,430,222,<function <lambda> at 0x7ed69cf975d0>,1020.15
+Manufacturing,Training Hours,203,300,<function <lambda> at 0x7ed69cf975d0>,1253.12
+Manufacturing,Machine Hours,289,421,<function <lambda> at 0x7ed69cf975d0>,4677.62
+Quality Control,Equipment Use,417,367,<function <lambda> at 0x7ed69cf975d0>,2006.22
+Quality Control,Training Hours,395,183,<function <lambda> at 0x7ed69cf975d0>,4097.35
+Maintenance,Training Hours,258,377,<function <lambda> at 0x7ed69cf975d0>,3628.69
+Maintenance,Training Hours,437,316,<function <lambda> at 0x7ed69cf975d0>,1448.93
+Logistics,Equipment Use,388,436,<function <lambda> at 0x7ed69cf975d0>,4179.72
+Logistics,Training Hours,436,447,<function <lambda> at 0x7ed69cf975d0>,1829.56
+Manufacturing,Manpower Hours,479,483,<function <lambda> at 0x7ed69cf975d0>,3781.71
+Quality Control,Machine Hours,331,313,<function <lambda> at 0x7ed69cf975d0>,2523.41
+Maintenance,Machine Hours,337,223,<function <lambda> at 0x7ed69cf975d0>,3179.04
+Manufacturing,Manpower Hours,328,401,<function <lambda> at 0x7ed69cf975d0>,4784.83
+Maintenance,Training Hours,482,418,<function <lambda> at 0x7ed69cf975d0>,2036.72
+Quality Control,Manpower Hours,261,212,<function <lambda> at 0x7ed69cf975d0>,2204.4
+Quality Control,Manpower Hours,290,292,<function <lambda> at 0x7ed69cf975d0>,2170.1
+Logistics,Machine Hours,314,354,<function <lambda> at 0x7ed69cf975d0>,2480.09
+Quality Control,Manpower Hours,202,262,<function <lambda> at 0x7ed69cf975d0>,3306.49
+Quality Control,Manpower Hours,401,481,<function <lambda> at 0x7ed69cf975d0>,4201.0
+Manufacturing,Equipment Use,362,398,<function <lambda> at 0x7ed69cf975d0>,4572.45
+Quality Control,Manpower Hours,488,337,<function <lambda> at 0x7ed69cf975d0>,1244.76
+HR,Machine Hours,285,204,<function <lambda> at 0x7ed69cf975d0>,3600.39
+Manufacturing,Machine Hours,266,364,<function <lambda> at 0x7ed69cf975d0>,3369.62
+Logistics,Training Hours,388,331,<function <lambda> at 0x7ed69cf975d0>,3403.76
+Manufacturing,Machine Hours,229,461,<function <lambda> at 0x7ed69cf975d0>,4173.33
+Manufacturing,Manpower Hours,208,216,<function <lambda> at 0x7ed69cf975d0>,4751.43
+Quality Control,Machine Hours,284,214,<function <lambda> at 0x7ed69cf975d0>,3993.02
+Manufacturing,Training Hours,424,485,<function <lambda> at 0x7ed69cf975d0>,1686.5
+Maintenance,Machine Hours,257,208,<function <lambda> at 0x7ed69cf975d0>,4818.6
+HR,Manpower Hours,356,449,<function <lambda> at 0x7ed69cf975d0>,4460.82
+Maintenance,Manpower Hours,456,367,<function <lambda> at 0x7ed69cf975d0>,2198.62
+Logistics,Equipment Use,438,302,<function <lambda> at 0x7ed69cf975d0>,1489.01
+HR,Equipment Use,443,338,<function <lambda> at 0x7ed69cf975d0>,4223.96
+Quality Control,Training Hours,402,153,<function <lambda> at 0x7ed69cf975d0>,4905.41
+HR,Training Hours,310,426,<function <lambda> at 0x7ed69cf975d0>,1509.95
+Quality Control,Machine Hours,260,473,<function <lambda> at 0x7ed69cf975d0>,3605.44
+Manufacturing,Machine Hours,274,197,<function <lambda> at 0x7ed69cf975d0>,1039.35
+Quality Control,Training Hours,385,196,<function <lambda> at 0x7ed69cf975d0>,1141.97
+Logistics,Training Hours,421,400,<function <lambda> at 0x7ed69cf975d0>,4140.73
+Maintenance,Training Hours,274,468,<function <lambda> at 0x7ed69cf975d0>,4262.33
+HR,Training Hours,256,374,<function <lambda> at 0x7ed69cf975d0>,2397.38
+Maintenance,Manpower Hours,250,262,<function <lambda> at 0x7ed69cf975d0>,2791.84
+Maintenance,Machine Hours,311,323,<function <lambda> at 0x7ed69cf975d0>,4117.91
+Maintenance,Equipment Use,267,266,<function <lambda> at 0x7ed69cf975d0>,4430.82
+Maintenance,Training Hours,447,336,<function <lambda> at 0x7ed69cf975d0>,2104.4
+Manufacturing,Manpower Hours,488,156,<function <lambda> at 0x7ed69cf975d0>,4137.15
+Logistics,Equipment Use,492,230,<function <lambda> at 0x7ed69cf975d0>,1803.51
+Logistics,Training Hours,315,264,<function <lambda> at 0x7ed69cf975d0>,2789.37
+Quality Control,Training Hours,425,213,<function <lambda> at 0x7ed69cf975d0>,3875.59
+Quality Control,Machine Hours,491,237,<function <lambda> at 0x7ed69cf975d0>,3743.19
+Quality Control,Training Hours,205,463,<function <lambda> at 0x7ed69cf975d0>,3009.16
+Logistics,Equipment Use,422,176,<function <lambda> at 0x7ed69cf975d0>,3679.49
+Logistics,Machine Hours,371,348,<function <lambda> at 0x7ed69cf975d0>,1202.13
+Logistics,Machine Hours,297,355,<function <lambda> at 0x7ed69cf975d0>,2153.07
+Quality Control,Equipment Use,484,454,<function <lambda> at 0x7ed69cf975d0>,1865.09
+Manufacturing,Manpower Hours,301,337,<function <lambda> at 0x7ed69cf975d0>,1327.17
+Maintenance,Manpower Hours,454,336,<function <lambda> at 0x7ed69cf975d0>,1830.76
+Logistics,Training Hours,309,200,<function <lambda> at 0x7ed69cf975d0>,4440.12
+Logistics,Training Hours,294,252,<function <lambda> at 0x7ed69cf975d0>,4585.12
+HR,Manpower Hours,257,385,<function <lambda> at 0x7ed69cf975d0>,3132.42
+Logistics,Manpower Hours,346,206,<function <lambda> at 0x7ed69cf975d0>,2937.58
+Maintenance,Manpower Hours,454,195,<function <lambda> at 0x7ed69cf975d0>,2852.67
+Quality Control,Equipment Use,383,454,<function <lambda> at 0x7ed69cf975d0>,4836.18
+HR,Training Hours,409,275,<function <lambda> at 0x7ed69cf975d0>,4763.27
+Maintenance,Manpower Hours,366,375,<function <lambda> at 0x7ed69cf975d0>,1865.95
+Manufacturing,Manpower Hours,355,218,<function <lambda> at 0x7ed69cf975d0>,1379.97
+Maintenance,Training Hours,434,478,<function <lambda> at 0x7ed69cf975d0>,1217.53
